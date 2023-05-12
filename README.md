@@ -1,5 +1,5 @@
 # Store-server
-![](https://img.shields.io/badge/Status%20-in%20process-green)
+![](https://img.shields.io/badge/Project%20status%20-in%20process-green)
 
 ## Оглавление
 

@@ -30,7 +30,7 @@
 - клонировать репозиторий или скачать архив
 
 ```bash
-git clone [https://github.com/msavilov/Store-server.git
+git clone https://github.com/msavilov/Store-server.git
 ```
 
 - Установите и активируйте виртуальное окружение
